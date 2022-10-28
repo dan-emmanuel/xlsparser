@@ -1,0 +1,21 @@
+{
+  "name": "xlsparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "nodemon": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "minimist": "^1.2.7",
+    "nodemon": "^2.0.20",
+    "unzipper": "^0.10.11",
+    "xlsx": "^0.18.5"
+  },
+  "type": "module"
+}

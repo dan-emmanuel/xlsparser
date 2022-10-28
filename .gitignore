@@ -1,0 +1,14 @@
+node_modules
+input*
+output*
+all.json
+final.json
+extracted
+errors
+finalEport.xlsx
+keys.txt
+refined.json
+.DS_Store
+relevant.json
+settings.json
+refactored.json
